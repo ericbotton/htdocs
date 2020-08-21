@@ -1,0 +1,33 @@
+body {
+  font-family: "Montserrat";
+}
+
+/* container classes */
+
+/* .jumbotron{
+  color: inherit;
+} */
+
+/* text classes */
+.nav-item {
+  text-align: right;
+}
+.header-text {
+  color: darkgrey;
+  font-family: monospace;
+  font-size: 3em;
+}
+.quoted-text {
+  color: grey;
+  font-family: cursive;
+  font-style: italic;
+}
+.cli-text {
+  font-family: "Ubuntu";
+}
+.attribution-text {
+  color: grey;
+  font-weight: 100;
+  padding-right: 20%;
+  text-align: right;
+}
